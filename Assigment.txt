@@ -1,0 +1,156 @@
+<!doctype html>
+<html> 
+<head>
+<title> world test championship final </title>
+</head>
+<body>
+<h3> INDIA VS NEWZEALAND  </h3>
+<table border="1">
+<th> Number </th>
+<th> India </th>
+<th> Profile </th>
+<tr>
+<td> 1 </td>
+<td> Ajinkya Rahane </td>
+<td> Righthand Batsman </td>
+</tr>
+<tr>
+<td> 2 </td>
+<td> Cheteshwar Pujara </td>
+<td> Righthand Batsman </td>
+</tr>
+<tr>
+<td> 3 </td>
+<td> Hanuman Vihari </td>
+<td> Righthand Batsman </td>
+</tr>
+<tr>
+<td> 4 </td>
+<td> kl Rahul </td>
+<td> Righthand Batsman </td>
+</tr>
+<tr>
+<td> 5 </td>
+<td> Mayank Agarwal </td>
+<td> Righthand Batsman </td>
+</tr>
+<tr>
+<td> 6 </td>
+<td> Rohit Sharma </td>
+<td> Righthand Batsman </td>
+</tr>
+<tr>
+<td> 7 </td>
+<td> Shubham Gill </td>
+<td> Righthand Batsman </td>
+</tr>
+<tr>
+<td> 8 </td>
+<td> Virat Kohli </td>
+<td> Righthand Batsman </td>
+</tr>
+<tr>
+<td> 9 </td>
+<td> Axar Patel </td>
+<td> Left-handed batsman left-arm leg spin boeler </td>
+</tr>
+<tr>
+<td> 10 </td>
+<td> Ravichandra Ashwin </td>
+<td> Right-haned batsman right arm off spin bowler </td>
+</tr>
+<tr>
+<td> 11 </td>
+<td> Ravindra Jadeja </td>
+<td> Left-handed batsman left-arm leg spin boeler </td>
+</tr>
+</body>
+<body>
+<table border="1">
+<th> Number </th>
+<th> Newzealand </th>
+<th> Profile </th>
+<tr>
+<td> 1 </td>
+<td> Kane Williamson </td>
+<td> Batsman </td>
+</tr>
+<tr>
+<td> 2 </td>
+<td> Devon Conway </td>
+<td> Batting </td>
+</tr>
+<tr>
+<td> 3 </td>
+<td> Ross Taylor </td>
+<td> Batsman </td>
+</tr>
+<tr>
+<td> 4 </td>
+<td> Trent Boult </td>
+<td> Bowler </td>
+</tr>
+<tr>
+<td> 5 </td>
+<td> Matt Henry </td>
+<td> Bowler </td>
+</tr>
+<tr>
+<td> 6 </td>
+<td> Tom Latham </td>
+<td> Wicket Keeper </td>
+</tr>
+<tr>
+<td> 7 </td>
+<td> Martin Guptil </td>
+<td> Batsman </td>
+</tr>
+<tr>
+<td> 8 </td>
+<td> Tom Blundell </td>
+<td> Wicket-Keeper </td>
+</tr>
+<tr>
+<td> 9 </td>
+<td> Tim Southee </td>
+<td> Bowler </td>
+</tr>
+<tr>
+<td> 10 </td>
+<td> Ish Sodhi </td>
+<td> Bowler </td>
+</tr>
+<tr>
+<td> 11 </td>
+<td> James Neesham </td>
+<td> All Rounder </td>
+</tr>
+</body>
+<body>
+<table border="1">
+<th> Winner </th>
+<th> Losser </th>
+<th> Man of the match </th>
+<th> Bowler of the match </th>
+<th> Best fielder </th>
+<tr>
+<td> INDIA </td>
+<td> NEWZELAND </td>
+<td> Virat kohli </td>
+<td> Ravichandran ashwin </td>
+<td> Ravindra jadeja </td>
+</tr>
+</body>
+<h3> TEAM DETAILS:- </h3>
+<body>
+<table border="1">
+<th> INDIA </th>
+<th> NEWZEALAND </th>
+<tr>
+<td> 2 </td>
+<td> 1 </td>
+</tr>
+</body>
+<h3> RESULT:- INDIA WON THE SERIES </h3>
+<h4> TOURNAMENT SCORE TABLE </h4>
+</html>
